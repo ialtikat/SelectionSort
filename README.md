@@ -3,7 +3,7 @@
 [![N|DocChecker](https://www.python.org/static/img/python-logo.png)](https://www.instagram.com/softwareblogerr/)
 
 # Explanation
-  - Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+  - Selection sort is a simple sorting algorithm. The smallest element is selected from the unsorted array and swapped with the leftmost element, and that element becomes a part of the sorted array. This process continues moving unsorted array boundary by one element to the right.
  
 # Instagram
 (https://www.instagram.com/softwareblogerr/)
